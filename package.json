@@ -1,0 +1,15 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "'learning javaScript'",
+  "main": "index.js",
+  "scripts": {
+    "test": "'none'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'JAVASCRIPT'"
+  },
+  "author": "'Arihant_Jain'",
+  "license": "ISC"
+}
