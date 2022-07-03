@@ -37,3 +37,23 @@ console.log(dictionary.phone_no)
 console.log('updating_Number')
 dictionary.phone_no='7899873677'
 console.log(dictionary.phone_no)
+
+
+
+//building triangles
+var n=10
+for(var i=0;i<=n;i++){
+    arr=new Array()
+    for (var j=i;j<=n;j++)
+    {
+    arr.push('*')
+    }
+    var result=arr.join('')
+    console.log(result) 
+}
+
+var mobileno='70249857237'
+console.log('your mobile number is       ',mobileno)
+var tail=mobileno.slice(5,10)
+// 
+console.log(typeof tail) 
